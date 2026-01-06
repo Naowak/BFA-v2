@@ -18,7 +18,7 @@ Les étudiants devront relever trois défis progressifs :
 
 ## 📸 Interface du Jeu
 
-> [ESPACE POUR LA CAPTURE D'ÉCRAN]
+![Screenshot of BFA](./screenshot.png)
 
 ---
 
